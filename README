@@ -1,0 +1,4 @@
+
+
+GETs an HTTP stream and than passes it on
+to clients which connect 
